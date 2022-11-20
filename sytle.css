@@ -239,4 +239,12 @@ body {
   .header-left {
     display: none;
   }
+
+  .right-header {
+    display: none;
+  }
+
+  .aside-container {
+    z-index: 7;
+  }
 }
